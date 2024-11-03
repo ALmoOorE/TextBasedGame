@@ -2,7 +2,14 @@
 
 using namespace std;
 
+class player{
+    public:
+
+};
+
+
 int main(){
-cout<<"Hello";
+
+cout<<"*******************WELCOME TO [name] *****************************\n";
     return 0;
 }
